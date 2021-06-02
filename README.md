@@ -1,6 +1,7 @@
 <div align="center">
 
-![][logo-url]
+<!-- ![][logo-url] -->
+ <img align="center" src="asset/name.GIF" alt="Coder GIF" width="500">
 
 <!-- **Tailwind CSS Components**  
 [ [See repo ↗︎][repo-url] ] -->
