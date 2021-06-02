@@ -1,3 +1,5 @@
+<div align="center">
+
 [![][logo-url]][repo-url]  
 
 **Tailwind CSS Components**  
