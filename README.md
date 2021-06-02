@@ -12,7 +12,7 @@
 
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-3.svg
-[repo-url]: https://github.com/saadeghi/daisyui
+
 
 <h2 align="left">
  <abc>
@@ -20,7 +20,7 @@
   <br> I'm Siv Ram Shastri :blush:<br>
   <br> Full Stack Web Developer at KonfHub Technologies :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -68,7 +68,7 @@ Feel free to check out my [repositories](https://github.com/jtagaca?tab=reposito
 </a>
 <a href="https://github.com/jtagaca/jtagaca">
   <img  src="https://github-readme-stats.vercel.app/api?username=jtagaca&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</a>n
 </div>
 <!-- ![](https://komarev.com/ghpvc/?username=jtagaca&color=33FFBB) -->
 
