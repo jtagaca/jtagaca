@@ -2,13 +2,13 @@
 
 [![][logo-url]][repo-url]  
 
-**Tailwind CSS Components**  
-[ [See repo ↗︎][repo-url] ]
+<!-- **Tailwind CSS Components**  
+[ [See repo ↗︎][repo-url] ] -->
   
 
 </div>
 
-[![][banner-url]][repo-url]  
+<!-- [![][banner-url]][repo-url]   -->
 
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-3.svg
