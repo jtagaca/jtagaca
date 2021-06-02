@@ -1,6 +1,6 @@
 <div align="center">
 
-[![][logo-url]][repo-url]  
+![][logo-url]
 
 <!-- **Tailwind CSS Components**  
 [ [See repo ↗︎][repo-url] ] -->
