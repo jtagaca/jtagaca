@@ -15,7 +15,7 @@
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-3.svg
 
 
-<h2 align="left">
+<h2 align="center">
  <abc>
   <!-- <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
   <br> I'm James Tagaca :smile:<br>
