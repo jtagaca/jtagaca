@@ -58,10 +58,18 @@ Feel free to check out my [repositories](https://github.com/jtagaca?tab=reposito
 
 ### Some cool stats:
 
-<img align='center' width="500" src="https://github-readme-stats.vercel.app/api?username=jtagaca&count_private=true&show_icons=true&theme=vue-dark">
+<!-- <img align='center' width="200" src="https://github-readme-stats.vercel.app/api?username=jtagaca&count_private=true&show_icons=true&theme=vue-dark">
 
-<img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&layout=compact&theme=vue-dark">
+<img align='center' width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&layout=compact&theme=vue-dark"> -->
+<div align='center'>
 
+<a href="https://github.com/jtagaca/jtagaca">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/jtagaca/jtagaca">
+  <img  src="https://github-readme-stats.vercel.app/api?username=jtagaca&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+</div>
 <!-- ![](https://komarev.com/ghpvc/?username=jtagaca&color=33FFBB) -->
 
 
