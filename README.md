@@ -10,19 +10,19 @@
     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-<p>
+<h2 align="left">👨🏻‍💻 About Me:</h2
+<h4>
 
-:school: I am a junior at California State University, Bakersfield. And I have enjoyed working in fullstack development mainly with web technologies. I am also interested in machine learning, cloud technology and containers. 
-</p>
+:school: I am a junior at California State University, Bakersfield. And I have specialize in fullstack development mainly with web technologies and frameworks. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
+</h4>
 
-<p>
+<h4>
 :people_holding_hands: I am a also a member of my university's software engineering club and the Microsoft Learn Student Ambassador Program.
-</p>
-<p>
+</h4>
+<h4>
 
 :hourglass_flowing_sand: On my spare time I enjoy building projects and learning new technologies. 
-</p>  
+</h4>  
 
 <br>
 <h4 align="center">
