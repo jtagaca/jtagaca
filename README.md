@@ -25,10 +25,10 @@
 </p>  
 
 <br>
-<p align="center">
+<h4 align="center">
 
 Feel free to check out my [repositories](https://github.com/jtagaca?tab=repositories)!
-</p>
+</h4>
 </br>
 
 ### Some Cool Stats:
