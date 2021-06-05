@@ -11,14 +11,14 @@
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-<br>
+<p>
 
 - :school: I'm currently a junior at CSU, Bakersfield. I am also part of the software engineering club at my University and a part of the Microsoft Learn Student Ambassador Program at Microsoft.
-</br>
-<br>
+</p>
+<p>
 
 - :hourglass_flowing_sand: On my spare time I enjoy working with cloud technology, containers, and full stack development. 
-</br>  
+</p>  
 
 <br>
 
