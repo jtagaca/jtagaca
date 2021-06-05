@@ -13,7 +13,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p>
 
-- :school: I'm currently a junior at CSU, Bakersfield. I am also part of the software engineering club at my University and a part of the Microsoft Learn Student Ambassador Program at Microsoft.
+- :school: I am a student at California State University, Bakersfield, and am now enrolled as a junior. On the other side, I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
 </p>
 <p>
 
