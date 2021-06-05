@@ -11,8 +11,14 @@
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+<br>
+
 - :school: I'm currently a junior at CSU, Bakersfield. I am also part of the software engineering club at my University and a part of the Microsoft Learn Student Ambassador Program at Microsoft.
+</br>
+<br>
+
 - :hourglass_flowing_sand: On my spare time I enjoy working with cloud technology, containers, and full stack development. 
+</br>  
 
 <br>
 
@@ -29,5 +35,3 @@ Feel free to check out my [repositories](https://github.com/jtagaca?tab=reposito
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 </div>
-<h2 align="left">:heart: Let's get connected:</h2>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
