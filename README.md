@@ -13,11 +13,11 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p>
 
-- :school: I am a student at California State University, Bakersfield, and am now enrolled as a junior. On the other side, I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
+:school: I am a junior at California State University, Bakersfield. On the other side, I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
 </p>
 <p>
 
-- :hourglass_flowing_sand: On my spare time I enjoy working with cloud technology, containers, and full stack development. 
+:hourglass_flowing_sand: On my spare time I enjoy working with cloud technology, containers, and full stack development. 
 </p>  
 
 <br>
