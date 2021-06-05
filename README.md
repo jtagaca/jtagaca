@@ -11,8 +11,8 @@
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2
-<h4>
 
+<h4>
 :school: I am a junior at California State University, Bakersfield. And I have specialize in fullstack development mainly with web technologies and frameworks. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
 </h4>
 
@@ -35,7 +35,7 @@ Feel free to check out my [repositories](https://github.com/jtagaca?tab=reposito
 <div align='center'>
 
 <a href="https://github.com/jtagaca/jtagaca">
-  <img  src="https://github-readme-stats.vercel.app/api?username=jtagaca&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=jtagaca&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="James Tagaca GitHub Stats" />
 </a>
 
 <a href="https://github.com/jtagaca/jtagaca">
