@@ -17,7 +17,7 @@
 </p>
 
 <p>
-:people_holding_hands: I am a also a member of my university's software engineering club and the Microsoft Learn Student Ambassador Program.new
+:people_holding_hands: I am a also a member of my university's software engineering club and the Microsoft Learn Student Ambassador Program.
 </p>
 <p>
 
