@@ -17,11 +17,11 @@
 </p>
 
 <p>
- I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
+:work: This year, I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
 </p>
 <p>
 
-:hourglass_flowing_sand: On my spare time I enjoy working with cloud technology, containers, and full stack development. 
+:hourglass_flowing_sand: On my spare time I enjoy building projects and learning new technologies. 
 </p>  
 
 <br>
