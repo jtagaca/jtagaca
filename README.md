@@ -21,9 +21,12 @@
 </p>  
 
 <br>
+<h4 align="center">
 
 Feel free to check out my [repositories](https://github.com/jtagaca?tab=repositories)!
+</h4>
 </br>
+
 ### Some Cool Stats:
 <div align='center'>
 
