@@ -12,23 +12,23 @@
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
-<h4>
+<p>
 :school: I am a junior at California State University, Bakersfield. And I have specialize in fullstack development mainly with web technologies and frameworks. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
-</h4>
+</p>
 
-<h4>
+<p>
 :people_holding_hands: I am a also a member of my university's software engineering club and the Microsoft Learn Student Ambassador Program.
-</h4>
-<h4>
+</p>
+<p>
 
 :hourglass_flowing_sand: On my spare time I enjoy building projects and learning new technologies. 
-</h4>  
+</p>  
 
 <br>
-<h4 align="center">
+<p align="center">
 
 Feel free to check out my [repositories](https://github.com/jtagaca?tab=repositories)!
-</h4>
+</p>
 </br>
 
 ### Some Cool Stats:
@@ -39,6 +39,6 @@ Feel free to check out my [repositories](https://github.com/jtagaca?tab=reposito
 </a>
 
 <a href="https://github.com/jtagaca/jtagaca">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtagaca&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 </div>
