@@ -13,7 +13,11 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <p>
 
-:school: I am a junior at California State University, Bakersfield. On the other side, I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
+:school: I am a junior at California State University, Bakersfield. And I have enjoyed working in fullstack development mainly with web technologies. I am also interested in machine learning, cloud technology and containers. 
+</p>
+
+<p>
+ I am a member of the software engineering club at my university and the Microsoft Learn Student Ambassador Program.
 </p>
 <p>
 
