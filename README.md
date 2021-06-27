@@ -13,7 +13,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
 <p>
-:school: I am a junior at California State University, Bakersfield. And I specialize in fullstack development mainly in web technologies. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
+:school: I am a sophomore at California State University, Bakersfield. And I specialize in fullstack development mainly in web technologies. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
 </p>
 
 <p>
