@@ -7,7 +7,7 @@
   <br> I'm James Tagaca :smile:<br>
   <br> Student At CSU,Bakersfield :books:<br>
   <br>
-    <img align="center" src="asset/10_coding_dribbble.gif" alt="Coder GIF" width="500">
+    <img align="center" src="asset/desk.gif" alt="Coder GIF" width="700">
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2
