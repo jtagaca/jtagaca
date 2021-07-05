@@ -13,11 +13,11 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
 <p>
-:school: I am a sophomore at California State University, Bakersfield. And I specialize in fullstack development mainly in web technologies. I am also actively exploring technologies such as machine learning, cloud development or infrastrucutre, and containerization. 
+Hello there❗❕ I am currently a sophomore at California State University, Bakersfield. And I specialize in system architecture, and currently hold multiple industry-standard technology certifications geared towards cloud development, infrastructure, and networks. 
 </p>
 
 <p>
-:people_holding_hands:I am a also a member of my university's software engineering club and the Microsoft Learn Student Ambassador Program.
+Towards programming and technology, I enjoy full-stack development, especially on the MERN stack. However, I am also interested and actively learning about automation, data analysis, machine learning, cloud development, infrastructure, and containerization. 
 </p>
 <p>
 
