@@ -19,8 +19,6 @@
 <p>
 ➡ Towards programming and technology, I enjoy full-stack development, especially on the MERN stack. However, I am also interested and actively learning about automation, data analysis, machine learning, cloud development, infrastructure, and containerization. 
 </p>
-
-
 <br>
 <h4 align="center">
 
