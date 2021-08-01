@@ -13,7 +13,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
 <p>
-➡ Hello there❗❕ I am currently a sophomore at California State University, Bakersfield. And I specialize in system architecture, and currently hold multiple industry-standard technology certifications geared towards cloud development, infrastructure, and networks. 
+➡ Hello there❗❕ I am currently a Junior at California State University, Bakersfield. And I specialize in system architecture, and currently hold multiple industry-standard technology certifications geared towards cloud development, infrastructure, and networks. 
 </p>
 
 <p>
