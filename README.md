@@ -5,7 +5,7 @@
 <h2 align="center">
  <abc>
   <br> I'm James Tagaca :smile:<br>
-  <br> a recent graduate :books:<br>
+  <br> A recent graduate :books:<br>
   <br>
     <img align="center" src="asset/desk.gif" alt="Coder GIF" width="700">
  </abc>
