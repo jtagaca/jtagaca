@@ -13,7 +13,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
 <p>
-➡ Hello there!! towards programming and technology, I enjoy full-stack development, especially on the MERN stack.
+➡ Hello there!! Towards programming and technology, I enjoy full-stack development, especially on the MERN stack.
 </p>
 <br>
 <h4 align="center">
