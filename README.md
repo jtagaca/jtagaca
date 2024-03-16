@@ -13,11 +13,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2
 
 <p>
-➡ Hello there❗❕ I am currently a Senior at California State University, Bakersfield. And I specialize in solution architecting, and currently hold multiple industry-standard technology certifications geared towards cloud development, infrastructure, and networks. 
-</p>
-
-<p>
-➡ Towards programming and technology, I enjoy full-stack development, especially on the MERN stack. However, I am also interested and actively learning about automation, data analysis, machine learning, cloud development, infrastructure, and containerization. 
+➡ Hello there!! towards programming and technology, I enjoy full-stack development, especially on the MERN stack.
 </p>
 <br>
 <h4 align="center">
