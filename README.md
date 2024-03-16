@@ -5,7 +5,7 @@
 <h2 align="center">
  <abc>
   <br> I'm James Tagaca :smile:<br>
-  <br> Student At CSU,Bakersfield :books:<br>
+  <br> a recent graduate :books:<br>
   <br>
     <img align="center" src="asset/desk.gif" alt="Coder GIF" width="700">
  </abc>
